@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AstitvaKumarVerma\\New Assesments\\04-Septemeber-2023\\Twilio\\Twilio SMS Console Application\\Twilio SMS Normal Code\\Twilio SMS Normal Code.csproj": {}
+  },
+  "projects": {
+    "D:\\AstitvaKumarVerma\\New Assesments\\04-Septemeber-2023\\Twilio\\Twilio SMS Console Application\\Twilio SMS Normal Code\\Twilio SMS Normal Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AstitvaKumarVerma\\New Assesments\\04-Septemeber-2023\\Twilio\\Twilio SMS Console Application\\Twilio SMS Normal Code\\Twilio SMS Normal Code.csproj",
+        "projectName": "Twilio SMS Normal Code",
+        "projectPath": "D:\\AstitvaKumarVerma\\New Assesments\\04-Septemeber-2023\\Twilio\\Twilio SMS Console Application\\Twilio SMS Normal Code\\Twilio SMS Normal Code.csproj",
+        "packagesPath": "C:\\Users\\astitvakumarv\\.nuget\\packages\\",
+        "outputPath": "D:\\AstitvaKumarVerma\\New Assesments\\04-Septemeber-2023\\Twilio\\Twilio SMS Console Application\\Twilio SMS Normal Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\astitvakumarv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

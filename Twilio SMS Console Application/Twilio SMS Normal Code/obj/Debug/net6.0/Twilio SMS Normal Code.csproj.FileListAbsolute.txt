@@ -1,0 +1,72 @@
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\twilioConfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.exe
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.deps.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.runtimeconfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.AssemblyReference.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfoInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfo.cs
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CoreCompileInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CopyComplete
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\refint\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.genruntimeconfig.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemebr-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\ref\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\twilioConfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.exe
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.deps.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.runtimeconfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.AssemblyReference.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfoInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfo.cs
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CoreCompileInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CopyComplete
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\refint\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.genruntimeconfig.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Normal Code\Twilio SMS Normal Code\obj\Debug\net6.0\ref\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\twilioConfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.exe
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.deps.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.runtimeconfig.json
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\bin\Debug\net6.0\Twilio.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.AssemblyReference.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfoInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.AssemblyInfo.cs
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CoreCompileInputs.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.csproj.CopyComplete
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\refint\Twilio SMS Normal Code.dll
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.pdb
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\Twilio SMS Normal Code.genruntimeconfig.cache
+D:\AstitvaKumarVerma\New Assesments\04-Septemeber-2023\Twilio\Twilio SMS Console Application\Twilio SMS Normal Code\obj\Debug\net6.0\ref\Twilio SMS Normal Code.dll
