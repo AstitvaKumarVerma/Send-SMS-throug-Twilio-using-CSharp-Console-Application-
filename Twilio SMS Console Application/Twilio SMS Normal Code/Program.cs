@@ -30,8 +30,8 @@ using (var reader = new StringReader(twilioConfigString))
 
     var message = MessageResource.Create(
         body: "Hii, Astitva This Side From Twilio",
-        from: new Twilio.Types.PhoneNumber("+16562231054"),
-        to: new Twilio.Types.PhoneNumber("+919520359532"));
+        from: new Twilio.Types.PhoneNumber("YOUR_TWILIO_PHONE_NUMBER"),     //replace it("YOUR_TWILIO_PHONE_NUMBER") with your actual Twilio Phone Number
+        to: new Twilio.Types.PhoneNumber("+9195xxxxxxxx"));     
 
     Console.WriteLine(message.Status);
 }
