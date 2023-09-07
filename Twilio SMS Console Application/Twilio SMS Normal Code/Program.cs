@@ -6,8 +6,8 @@ using Twilio_SMS_Normal_Code;
 
 
 
-string accountSid = "ACf0b59a3388c408a48c46050a2f505ccb";
-string authToken = "ff5ea15032030131c5d0eeef1021eef4";
+string accountSid = "YOUR_TWILIO_AccountSID";   //replace it with your Actual Twilio AccountSID
+string authToken = "YOUR_TWILIO_AuthToken";   //replace it with your Actual Twilio AuthToken
 
 
 Console.WriteLine("--------------------------------------------------------");
